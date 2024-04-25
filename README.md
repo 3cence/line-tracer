@@ -1,3 +1,2 @@
 # line-tracer
-Input file, draw with machine
-Each root folder is a seprate project, each one being a step in the whole prosess. The only completely functional one is the Tracer one
+This project was an experiemnt in image processing. I did not use any formal methods, i wanted to see what i could come up with to make it happen.
